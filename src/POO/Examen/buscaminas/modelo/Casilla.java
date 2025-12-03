@@ -1,4 +1,4 @@
-package POO.Examen.buscaminas.modelo;
+ package POO.Examen.buscaminas.modelo;
 
 import java.io.Serializable;
 
